@@ -25,4 +25,5 @@ Improved Efficiency: By identifying patterns in ticket resolution, the support t
 Optimized Training: The agent performance metrics help pinpoint areas where certain team members may need further training.
 Better Decision Making: The dashboard provides actionable insights, helping managers make data-driven decisions about staffing and resource allocation.
 [Click Here to View the Live Report](https://app.powerbi.com/reportEmbed?reportId=6863ca3c-e350-40b9-b826-8aaaba26ad18&autoAuth=true&ctid=40567751-c804-4639-ae0e-df4e454e549b)
-[Dashboard Preview]()
+[Dashboard Preview](https://github.com/ABHISHEKVIMAL1319/Technical-Support-Analysis/blob/main/Technical%20Support.PNG?raw=true)
+
